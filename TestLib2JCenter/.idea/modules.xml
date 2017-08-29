@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestLib2JCenter.iml" filepath="$PROJECT_DIR$/TestLib2JCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2Jcenterlibrary/test2Jcenterlibrary.iml" filepath="$PROJECT_DIR$/test2Jcenterlibrary/test2Jcenterlibrary.iml" />
+    </modules>
+  </component>
+</project>
